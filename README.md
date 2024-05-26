@@ -1,4 +1,3 @@
-**Hi, I'm Binwen Wu, a Developer 🚀 from China. I have a passion for open source technology and am committed to becoming an excellent independent developer 💻**
 # <Hello>你好👋, &nbsp;I'm Binwen Wu</Hello>
 
 I'm a developer from Wuhan, with a love for writing `code`. I post blogs on [tankenqi.cn](https://www.tankenqi.cn/).
