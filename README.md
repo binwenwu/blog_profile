@@ -1,6 +1,6 @@
 # <Hello>你好👋, &nbsp;I'm Binwen Wu</Hello>
 
-I'm a developer from Wuhan, with a love for writing `code`. I post blogs on [tankenqi.cn](https://www.tankenqi.cn/).
+I'm a developer from Wuhan, with a love for writing <code>code</code>. I post blogs on [tankenqi.cn](https://www.tankenqi.cn/).
 
 In my spare time, I study "Golang". I am trying to write some English posts to improve my English proficiency, with the aim of working remotely in the future.
 
